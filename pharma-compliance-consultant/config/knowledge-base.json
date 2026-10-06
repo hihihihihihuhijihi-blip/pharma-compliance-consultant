@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "knowledge_mode": "bundled_rules_and_public_query",
+  "bundled_layers": [
+    "L1",
+    "L2"
+  ],
+  "originals": {
+    "included": false,
+    "access": "private"
+  },
+  "public_indexes": "registered_metadata_with_safe_public_links",
+  "public_query_scope": "registered_documents",
+  "read_only": true
+}
